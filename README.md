@@ -13,7 +13,7 @@ I reviewed the HTML and CSS and corrected the following:
 
 Click [link](https://n8trask.github.io/Module-1-Challenge/) to visit functional page.
 
-![wtf](Module-1-Challenge\assets\images\Horiseon.jpeg)
+![wtf](Module-1-Challenge\assets\images\Horiseon.jpg)
     
 
 ## Credits
