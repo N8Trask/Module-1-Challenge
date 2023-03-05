@@ -11,14 +11,11 @@ I reviewed the HTML and CSS and corrected the following:
 
 ## Usage - COMING SOON
 
-Provide instructions and examples for use. Include screenshots as needed.
+Click [link](https://n8trask.github.io/Module-1-Challenge/) to visit functional page.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![wtf](Module-1-Challenge\assets\images\Horiseon.jpeg)
+    
 
 ## Credits
 
-ME MYSELF AND I
+**ME MYSELF AND I**
