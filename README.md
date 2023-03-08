@@ -2,13 +2,11 @@
 
 ## Description
 
-While the webpage loaded fine and looked to be ok it was not in working order.
+While the webpage loaded fine the code behind it was not up to par.
 I reviewed the HTML and CSS and corrected the following:
-- Changed the title and added header in html
-- Cleaned up lines of code and fixed the broken link
-- Removed footer as it did not follow the mock up
+- Reviewed semantic elements and replaced with proper element where necessary. Along with fixing the application's link
 - Revised CSS to avoid redundancy 
-- What I learned in this challenge was to take each step line by line, instead of being overwhelmed at the project as a whole. 
+- What I learned in this challenge was using proper semantic elements is a top priority. Also, i learned to take each step line by line.
 
 
 ## Usage
