@@ -23,6 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 /*replaced div with nav*/
 .header nav {
     padding-top: 15px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/*replaced div with nav*/
 .header nav ul {
     list-style-type: none;
 }
 
+/*replaced div with nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -85,6 +88,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /*organized to avoid redundancy*/
 .benefit-lead,
 .benefit-brand,
@@ -93,7 +97,7 @@ p {
     color: #ffffff;
 }
 
-
+/*organized to avoid redundancy*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -101,6 +105,7 @@ p {
     text-align: center;
 }
 
+/*organized to avoid redundancy*/
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -109,7 +114,7 @@ p {
     max-width: 150px;
 }
 
-
+/*organized to avoid redundancy*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -121,13 +126,14 @@ p {
     color: #ffffff;
 }
 
-
+/*organized to avoid redundancy*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*organized to avoid redundancy*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -143,6 +149,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*HTML footer was changed from h2 to h4, upadated in CSS*/
+.footer h4 {
     font-size: 20px;
 }
